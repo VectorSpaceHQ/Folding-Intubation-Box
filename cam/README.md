@@ -1,0 +1,1 @@
+The gcode in this directory in unlikely to work on your machine without some modification. However, it's included here as it may provide some insight, such as the feeds and speeds and tool details that we used.
