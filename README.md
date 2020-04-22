@@ -1,5 +1,7 @@
 # Folding-Intubation-Box
-Design files for a folding intubation box. This was made in response to COVID-19 and put to use in Centra hospitals.
+Design files for a folding intubation (aerosol) box. This was made in response to COVID-19 and put to use in Centra hospitals.
+
+<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1696.JPG" width="400">
 
 # Materials
 - 4'x4'x3/16" polycarbonate
