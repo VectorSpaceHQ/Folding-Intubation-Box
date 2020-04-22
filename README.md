@@ -3,9 +3,7 @@ This is a folding intubation box designed by [Vector Space](https://vector-space
 
 This design is a reinterpretation of the [EmoTech Airway box](https://www.youtube.com/watch?v=tWDG0Pa2EK4&feature=youtu.be). It is constructed from 1/4" clear polycarbonate and uses PVC hinges in order to avoid any metal fasteners or parts that could be lost.
 
-<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1694.JPG" width="400">
-
-<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/intubation_box_setup.gif">
+<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1694.JPG" width="400"> <img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/intubation_box_setup.gif">
 
 ## Materials
 - 4'x4'x3/16" polycarbonate
