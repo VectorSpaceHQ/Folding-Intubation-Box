@@ -11,16 +11,14 @@ This design is a reinterpretation of the [EmoTech Airway box](https://www.youtub
 - WeldOn #40 adhesive
 
 ## Instructions
-These boxes can be made with or without the use of CNC tools. If made using manual methods, it is recommended to print the templates for help with routing the handles and drilling the hand holes.
-
-A box has 5 major parts:
+This box has 5 major parts,
 1. Front
 2. Top
-3. Two sides
-4. Two glove flanges
+3. 2 sides
+4. 2 glove flanges
 5. 3 hinges
 
-It is recommended that they be made and assembled in the following order. Use the folding_intubation_box.pdf for dimensions.
+These boxes can be made with or without the use of CNC tools. If made using manual methods, it is recommended to print the templates for help with routing the handles and drilling the hand holes. Polycarbonate can be cut using traditional woodworking tools. It is recommended that they be made and assembled in the following order. Use the folding_intubation_box.pdf for dimensions.
 
 1. Cut 4'x4' sheet in half, leaving two 2'x4' sheets.
 2. Cut one of these halves into 24"x26" (front) and 24"x20" (side) pieces.
