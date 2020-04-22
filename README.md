@@ -5,6 +5,8 @@ This design is a reinterpretation of the [EmoTech Airway box](https://www.youtub
 
 <img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1694.JPG" width="400">
 
+<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/intubation_box_setup.gif">
+
 ## Materials
 - 4'x4'x3/16" polycarbonate
 - 6' of pinless PVC hinge (https://www.mcmaster.com/11195a43)
