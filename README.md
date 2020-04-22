@@ -37,7 +37,7 @@ It is recommended that Polycarbonate be cleaned with isopropyl alcohol.
 ---
 
 <img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1689.JPG" width="400">
-<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1696.JPG" width="400">
+<img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1695.JPG" width="400">
 <img src="https://github.com/VectorSpaceHQ/Folding-Intubation-Box/blob/master/images/IMG_1698.JPG" width="400">
 
 ---
